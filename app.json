@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "tourly",
+    "slug": "tourly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "We need access to your photos to set your profile picture."
+      }
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "expo-font",
+      "expo-web-browser",
+      "expo-facebook",
+      "expo-mail-composer",
+      "@react-native-community/datetimepicker",
+      "expo-image-picker",
+      "expo-localization"
+    ]
+  }
+}

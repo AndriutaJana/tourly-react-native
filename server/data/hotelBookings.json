@@ -1,0 +1,414 @@
+[
+  {
+    "bookingId": "98b99b87-adce-4a9f-aca2-76a0aa203e03",
+    "createdAt": "2026-02-05T15:24:43.144Z",
+    "status": "confirmed",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "ROM_H1",
+      "name": "Garden Hotel 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_2.jpg",
+      "address": "Museum Ln 187, Rome, Italy",
+      "city": "Rome",
+      "currency": "EUR",
+      "priceFrom": 85
+    },
+    "room": {
+      "code": "R2",
+      "name": "Suite",
+      "refundable": true,
+      "breakfastIncluded": false,
+      "pricePerNight": 85,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 85,
+      "currency": "EUR",
+      "total": 255
+    },
+    "paidAt": "2026-02-05T15:24:49.096Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    }
+  },
+  {
+    "bookingId": "50f469ca-9004-47de-a720-43fe2dae4c44",
+    "createdAt": "2026-02-05T15:25:44.309Z",
+    "status": "pending_payment",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "ROM_H1",
+      "name": "Garden Hotel 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_2.jpg",
+      "address": "Museum Ln 187, Rome, Italy",
+      "city": "Rome",
+      "currency": "EUR",
+      "priceFrom": 85
+    },
+    "room": {
+      "code": "R2",
+      "name": "Suite",
+      "refundable": true,
+      "breakfastIncluded": false,
+      "pricePerNight": 85,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 85,
+      "currency": "EUR",
+      "total": 255
+    }
+  },
+  {
+    "bookingId": "67f73dff-ab9d-46b5-bb20-0b0c79d2df5e",
+    "createdAt": "2026-02-05T15:27:55.784Z",
+    "status": "confirmed",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "ROM_H1",
+      "name": "Garden Hotel 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_2.jpg",
+      "address": "Museum Ln 187, Rome, Italy",
+      "city": "Rome",
+      "currency": "EUR",
+      "priceFrom": 85
+    },
+    "room": {
+      "code": "R2",
+      "name": "Suite",
+      "refundable": true,
+      "breakfastIncluded": false,
+      "pricePerNight": 85,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 85,
+      "currency": "EUR",
+      "total": 255
+    },
+    "paidAt": "2026-02-05T15:27:57.319Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T15:31:13.147Z"
+    }
+  },
+  {
+    "bookingId": "f23e6a66-e83a-4327-bd97-1ff45d18f53e",
+    "createdAt": "2026-02-05T16:04:28.029Z",
+    "status": "confirmed",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "LON_H1",
+      "name": "Crown Boutique Hotel 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_1.jpg",
+      "address": "Liberty Ave 173, London, United Kingdom",
+      "city": "London",
+      "currency": "EUR",
+      "priceFrom": 120
+    },
+    "room": {
+      "code": "R4",
+      "name": "Standard Room",
+      "refundable": false,
+      "breakfastIncluded": false,
+      "pricePerNight": 305,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-04-10",
+      "checkOut": "2026-04-16",
+      "nights": 6
+    },
+    "pricing": {
+      "pricePerNight": 305,
+      "currency": "EUR",
+      "total": 1830
+    },
+    "paidAt": "2026-02-05T16:04:30.963Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    }
+  },
+  {
+    "bookingId": "7c941a6d-7ab2-4863-8b27-b93e6eccddf8",
+    "createdAt": "2026-02-05T16:09:16.181Z",
+    "status": "pending_payment",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "LON_H1",
+      "name": "Crown Boutique Hotel 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_1.jpg",
+      "address": "Liberty Ave 173, London, United Kingdom",
+      "city": "London",
+      "currency": "EUR",
+      "priceFrom": 120
+    },
+    "room": {
+      "code": "R2",
+      "name": "Deluxe Room",
+      "refundable": false,
+      "breakfastIncluded": true,
+      "pricePerNight": 120,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 120,
+      "currency": "EUR",
+      "total": 360
+    }
+  },
+  {
+    "bookingId": "f62968f9-4c96-4826-9c01-bc0c4eaede1e",
+    "createdAt": "2026-02-05T16:09:24.964Z",
+    "status": "pending_payment",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "LON_H1",
+      "name": "Crown Boutique Hotel 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_1.jpg",
+      "address": "Liberty Ave 173, London, United Kingdom",
+      "city": "London",
+      "currency": "EUR",
+      "priceFrom": 120
+    },
+    "room": {
+      "code": "R3",
+      "name": "Suite",
+      "refundable": false,
+      "breakfastIncluded": false,
+      "pricePerNight": 210,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 210,
+      "currency": "EUR",
+      "total": 630
+    }
+  },
+  {
+    "bookingId": "31c28a5b-2171-4bb8-b9fe-23a8c7dcf69e",
+    "createdAt": "2026-02-05T16:11:42.203Z",
+    "status": "confirmed",
+    "guest": {
+      "fullName": "Demo User",
+      "email": "demo@email.com",
+      "phone": "+37360000000"
+    },
+    "hotel": {
+      "hotelId": "IST_H1",
+      "name": "Grand Palace 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_2.jpg",
+      "address": "Park St 181, Istanbul, Turkey",
+      "city": "Istanbul",
+      "currency": "EUR",
+      "priceFrom": 65
+    },
+    "room": {
+      "code": "R4",
+      "name": "Deluxe Room",
+      "refundable": true,
+      "breakfastIncluded": false,
+      "pricePerNight": 100,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 100,
+      "currency": "EUR",
+      "total": 300
+    },
+    "paidAt": "2026-02-05T16:11:44.093Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    }
+  },
+  {
+    "bookingId": "7901be4d-439d-4d55-8b18-92a06ec79cb9",
+    "createdAt": "2026-02-05T16:34:35.004Z",
+    "status": "confirmed",
+    "guest": {
+      "fullName": "hana",
+      "email": "hana@gmail.com",
+      "phone": "+37369332288"
+    },
+    "hotel": {
+      "hotelId": "PAR_H3",
+      "name": "Luxe Palace 3",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_3.jpg",
+      "address": "River Ln 6, Paris, France",
+      "city": "Paris",
+      "currency": "EUR",
+      "priceFrom": 55
+    },
+    "room": {
+      "code": "R1",
+      "name": "Suite",
+      "refundable": false,
+      "breakfastIncluded": true,
+      "pricePerNight": 55,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-12",
+      "checkOut": "2026-02-15",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 55,
+      "currency": "EUR",
+      "total": 165
+    },
+    "paidAt": "2026-02-05T16:34:36.438Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T16:34:58.746Z"
+    }
+  },
+  {
+    "bookingId": "52b3a684-98e9-4cc7-9eb2-ee9fce76b0cd",
+    "createdAt": "2026-02-19T12:44:04.389Z",
+    "status": "confirmed",
+    "guest": {
+      "fullName": "test",
+      "email": "test1@gmail.com",
+      "phone": "069332288"
+    },
+    "hotel": {
+      "hotelId": "PAR_H1",
+      "name": "Grand Suites 1",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_2.jpg",
+      "address": "Liberty Ln 83, Paris, France",
+      "city": "Paris",
+      "currency": "EUR",
+      "priceFrom": 100
+    },
+    "room": {
+      "code": "R3",
+      "name": "Standard Room",
+      "refundable": true,
+      "breakfastIncluded": true,
+      "pricePerNight": 235,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-02-26",
+      "checkOut": "2026-03-01",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 235,
+      "currency": "EUR",
+      "total": 705
+    },
+    "paidAt": "2026-02-19T12:44:06.078Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-19T12:44:25.744Z"
+    }
+  },
+  {
+    "bookingId": "f843e1a8-1f8c-4006-ba23-c2bde6766bb9",
+    "createdAt": "2026-04-06T15:42:13.925Z",
+    "status": "pending_payment",
+    "guest": {
+      "fullName": "test",
+      "email": "test@gmail.com",
+      "phone": "51846835"
+    },
+    "hotel": {
+      "hotelId": "BUD_H2",
+      "name": "Garden Inn 2",
+      "thumbnail": "http://192.168.100.5:3001/static/hotel-images/exterior_2.jpg",
+      "address": "King St 18, Budapest, Hungary",
+      "city": "Budapest",
+      "currency": "EUR",
+      "priceFrom": 185
+    },
+    "room": {
+      "code": "R1",
+      "name": "Superior Room",
+      "refundable": false,
+      "breakfastIncluded": false,
+      "pricePerNight": 185,
+      "currency": "EUR"
+    },
+    "dates": {
+      "checkIn": "2026-04-13",
+      "checkOut": "2026-04-16",
+      "nights": 3
+    },
+    "pricing": {
+      "pricePerNight": 185,
+      "currency": "EUR",
+      "total": 555
+    }
+  }
+]

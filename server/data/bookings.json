@@ -1,0 +1,954 @@
+[
+  {
+    "bookingId": "6910420c-0b08-48b0-b4fc-4f7e3b02a260",
+    "createdAt": "2026-02-04T13:41:03.687Z",
+    "passenger": {
+      "fullName": "jana",
+      "email": "jana@gmail.com",
+      "phone": "+37369332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_3",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "110",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LH"
+      ],
+      "airlineName": "Lufthansa",
+      "itineraries": [
+        {
+          "durationMinutes": 89,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T16:40:00",
+                "terminal": "1",
+                "gate": "A14"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T18:09:00",
+                "terminal": "1",
+                "gate": "D17"
+              },
+              "carrierCode": "LH",
+              "number": "697",
+              "durationMinutes": 89,
+              "aircraft": "A320"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "status": "confirmed",
+    "paidAt": "2026-02-05T14:51:59.906Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    }
+  },
+  {
+    "bookingId": "02fbb55b-f509-48d8-91c7-3c9618c398f5",
+    "createdAt": "2026-02-04T13:42:45.092Z",
+    "passenger": {
+      "fullName": "janajana",
+      "email": "jana@gmail.com",
+      "phone": "+37369332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "status": "cancelled",
+    "cancelledAt": "2026-02-04T14:49:15.369Z"
+  },
+  {
+    "bookingId": "7afca702-8a4d-4188-a70d-3bca5ad96be9",
+    "createdAt": "2026-02-04T13:46:53.162Z",
+    "passenger": {
+      "fullName": "janajana",
+      "email": "jana@gmail.com",
+      "phone": "069332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    }
+  },
+  {
+    "bookingId": "4ae61f80-ac5b-4273-b025-75cfb8dbae91",
+    "createdAt": "2026-02-04T14:08:55.595Z",
+    "passenger": {
+      "fullName": "jana",
+      "email": "jana@gmail.com",
+      "phone": "+37369332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "status": "cancelled",
+    "cancelledAt": "2026-02-04T14:09:53.652Z"
+  },
+  {
+    "bookingId": "da1c4024-27b6-4fcd-819e-9cbcfb330505",
+    "createdAt": "2026-02-04T15:16:12.601Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "jana",
+      "email": "jana@gmail.com",
+      "phone": "+37369332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    }
+  },
+  {
+    "bookingId": "331fc40e-e987-4e1e-828a-7d95ee8c5679",
+    "createdAt": "2026-02-04T15:35:56.535Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "jana",
+      "email": "jana@gmail.com",
+      "phone": "+37369332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_3",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "110",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LH"
+      ],
+      "airlineName": "Lufthansa",
+      "itineraries": [
+        {
+          "durationMinutes": 89,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T16:40:00",
+                "terminal": "1",
+                "gate": "A14"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T18:09:00",
+                "terminal": "1",
+                "gate": "D17"
+              },
+              "carrierCode": "LH",
+              "number": "697",
+              "durationMinutes": 89,
+              "aircraft": "A320"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "paidAt": "2026-02-04T15:36:36.253Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4444"
+    }
+  },
+  {
+    "bookingId": "aecf3d27-a7aa-41e6-bc13-641b4b5b6ee4",
+    "createdAt": "2026-02-05T13:24:28.556Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "arina",
+      "email": "arina@gmail.com",
+      "phone": "+37369338822"
+    },
+    "offer": {
+      "id": "IST_KIV_2026-04-08_1",
+      "origin": "IST",
+      "destination": "KIV",
+      "departureDate": "2026-04-08",
+      "price": {
+        "total": "100",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LO"
+      ],
+      "airlineName": "LOT",
+      "itineraries": [
+        {
+          "durationMinutes": 113,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-04-08T09:20:00",
+                "terminal": "2",
+                "gate": "A16"
+              },
+              "arrival": {
+                "iataCode": "KIV",
+                "at": "2026-04-08T11:13:00",
+                "terminal": "2",
+                "gate": "B16"
+              },
+              "carrierCode": "LO",
+              "number": "705",
+              "durationMinutes": 113,
+              "aircraft": "A320"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:26.244Z"
+    },
+    "paidAt": "2026-02-05T13:24:31.635Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4444"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T13:32:07.447Z"
+    }
+  },
+  {
+    "bookingId": "e052d346-8962-4bb0-a809-e60a4b364a80",
+    "createdAt": "2026-02-05T13:54:12.338Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "test",
+      "email": "test@gmail.com",
+      "phone": "+36451658816"
+    },
+    "offer": {
+      "id": "IST_KIV_2026-04-08_2",
+      "origin": "IST",
+      "destination": "KIV",
+      "departureDate": "2026-04-08",
+      "price": {
+        "total": "125",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LO"
+      ],
+      "airlineName": "LOT",
+      "itineraries": [
+        {
+          "durationMinutes": 89,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-04-08T14:00:00",
+                "terminal": "1",
+                "gate": "D11"
+              },
+              "arrival": {
+                "iataCode": "KIV",
+                "at": "2026-04-08T15:29:00",
+                "terminal": "1",
+                "gate": "B16"
+              },
+              "carrierCode": "LO",
+              "number": "985",
+              "durationMinutes": 89,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:26.244Z"
+    },
+    "paidAt": "2026-02-05T13:54:19.435Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "0005"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T13:59:19.371Z"
+    }
+  },
+  {
+    "bookingId": "d2777730-cf4d-437f-b329-434fd711a72b",
+    "createdAt": "2026-02-05T14:00:01.889Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "eee",
+      "email": "ndjjd@gmail.com",
+      "phone": "0693228157"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "paidAt": "2026-02-05T14:00:05.964Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4444"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T14:10:10.393Z"
+    }
+  },
+  {
+    "bookingId": "d6ea6c95-edff-4f5f-88a7-1fef10b94471",
+    "createdAt": "2026-02-05T14:10:43.480Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "arina",
+      "email": "jana@gmail.com",
+      "phone": "069334488"
+    },
+    "offer": {
+      "id": "IST_KIV_2026-04-08_3",
+      "origin": "IST",
+      "destination": "KIV",
+      "departureDate": "2026-04-08",
+      "price": {
+        "total": "115",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LO"
+      ],
+      "airlineName": "LOT",
+      "itineraries": [
+        {
+          "durationMinutes": 113,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-04-08T10:00:00",
+                "terminal": "1",
+                "gate": "D16"
+              },
+              "arrival": {
+                "iataCode": "KIV",
+                "at": "2026-04-08T11:53:00",
+                "terminal": "1",
+                "gate": "D16"
+              },
+              "carrierCode": "LO",
+              "number": "266",
+              "durationMinutes": 113,
+              "aircraft": "E190"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:26.244Z"
+    },
+    "paidAt": "2026-02-05T14:10:46.498Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4444"
+    }
+  },
+  {
+    "bookingId": "255d066e-b669-4c16-9fdd-f2095d09d6de",
+    "createdAt": "2026-02-05T14:10:51.291Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "arina",
+      "email": "jana@gmail.com",
+      "phone": "069334488"
+    },
+    "offer": {
+      "id": "IST_KIV_2026-04-08_3",
+      "origin": "IST",
+      "destination": "KIV",
+      "departureDate": "2026-04-08",
+      "price": {
+        "total": "115",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LO"
+      ],
+      "airlineName": "LOT",
+      "itineraries": [
+        {
+          "durationMinutes": 113,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-04-08T10:00:00",
+                "terminal": "1",
+                "gate": "D16"
+              },
+              "arrival": {
+                "iataCode": "KIV",
+                "at": "2026-04-08T11:53:00",
+                "terminal": "1",
+                "gate": "D16"
+              },
+              "carrierCode": "LO",
+              "number": "266",
+              "durationMinutes": 113,
+              "aircraft": "E190"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:26.244Z"
+    },
+    "paidAt": "2026-02-05T14:10:54.995Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "0005"
+    }
+  },
+  {
+    "bookingId": "f4dd6305-2d0a-423b-9ba8-39f492ce6813",
+    "createdAt": "2026-02-05T14:11:33.019Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "test",
+      "email": "twst@gmail.com",
+      "phone": "33333333"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "paidAt": "2026-02-05T14:11:34.926Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T14:14:29.963Z"
+    }
+  },
+  {
+    "bookingId": "8f21ca42-f018-43b4-8645-59f959a5a23b",
+    "createdAt": "2026-02-05T14:15:17.273Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "test",
+      "email": "test@gmail.com",
+      "phone": "0693340691"
+    },
+    "offer": {
+      "id": "IST_KIV_2026-04-08_2",
+      "origin": "IST",
+      "destination": "KIV",
+      "departureDate": "2026-04-08",
+      "price": {
+        "total": "125",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LO"
+      ],
+      "airlineName": "LOT",
+      "itineraries": [
+        {
+          "durationMinutes": 89,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "IST",
+                "at": "2026-04-08T14:00:00",
+                "terminal": "1",
+                "gate": "D11"
+              },
+              "arrival": {
+                "iataCode": "KIV",
+                "at": "2026-04-08T15:29:00",
+                "terminal": "1",
+                "gate": "B16"
+              },
+              "carrierCode": "LO",
+              "number": "985",
+              "durationMinutes": 89,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:26.244Z"
+    },
+    "paidAt": "2026-02-05T14:15:19.888Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4444"
+    }
+  },
+  {
+    "bookingId": "80acfd6c-e8dc-47cc-91e6-d405b69f53a7",
+    "createdAt": "2026-02-05T14:21:56.776Z",
+    "status": "pending_payment",
+    "passenger": {
+      "fullName": "jana",
+      "email": "jana@gmail.com",
+      "phone": "+3736964848"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_2",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "125",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "LH"
+      ],
+      "airlineName": "Lufthansa",
+      "itineraries": [
+        {
+          "durationMinutes": 103,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T17:30:00",
+                "terminal": "2",
+                "gate": "C3"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T19:13:00",
+                "terminal": "1",
+                "gate": "D1"
+              },
+              "carrierCode": "LH",
+              "number": "557",
+              "durationMinutes": 103,
+              "aircraft": "E190"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    }
+  },
+  {
+    "bookingId": "3823bf50-65bb-45aa-89f8-1b01d2bb5d09",
+    "createdAt": "2026-02-05T14:48:38.353Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "testq",
+      "email": "test@gmail.com",
+      "phone": "+37369332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "paidAt": "2026-02-05T14:48:40.328Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-05T14:51:50.848Z"
+    }
+  },
+  {
+    "bookingId": "653b0d99-e77d-415e-9935-eaa647a8f4de",
+    "createdAt": "2026-02-19T12:45:04.786Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "test",
+      "email": "test1@gamil.com",
+      "phone": "069332288"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "paidAt": "2026-02-19T12:45:06.780Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "0005"
+    },
+    "refund": {
+      "status": "requested",
+      "requestedAt": "2026-02-19T12:45:13.146Z"
+    }
+  },
+  {
+    "bookingId": "a9cf7f49-de38-479b-bd98-a7d59e8e92be",
+    "createdAt": "2026-04-06T16:16:53.587Z",
+    "status": "confirmed",
+    "passenger": {
+      "fullName": "test",
+      "email": "test@gmail.com",
+      "phone": "5184656814"
+    },
+    "offer": {
+      "id": "KIV_IST_2026-03-10_1",
+      "origin": "KIV",
+      "destination": "IST",
+      "departureDate": "2026-03-10",
+      "price": {
+        "total": "90",
+        "currency": "EUR"
+      },
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "airlineName": "Turkish Airlines",
+      "itineraries": [
+        {
+          "durationMinutes": 92,
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "KIV",
+                "at": "2026-03-10T08:10:00",
+                "terminal": "3",
+                "gate": "B25"
+              },
+              "arrival": {
+                "iataCode": "IST",
+                "at": "2026-03-10T09:42:00",
+                "terminal": "3",
+                "gate": "A3"
+              },
+              "carrierCode": "TK",
+              "number": "923",
+              "durationMinutes": 92,
+              "aircraft": "A220"
+            }
+          ]
+        }
+      ],
+      "stops": 0,
+      "updatedAt": "2026-02-04T11:58:28.230Z"
+    },
+    "paidAt": "2026-04-06T16:16:55.005Z",
+    "payment": {
+      "method": "card",
+      "cardLast4": "4242"
+    }
+  }
+]
